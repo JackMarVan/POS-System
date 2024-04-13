@@ -1,0 +1,2 @@
+Beverages,0,Water,1,100,20
+Beverages,1,Juice,3,50,20
